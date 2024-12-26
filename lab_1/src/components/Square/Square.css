@@ -1,0 +1,13 @@
+.square {
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+    text-align: center;
+    margin: 5px;
+    background-color: #ece5e5;
+    border: 1px solid #d61717;
+    cursor: pointer;
+    display: inline-block;
+    vertical-align: top;
+  }
+  
